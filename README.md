@@ -2,7 +2,7 @@
 
 A simple and interactive **Path Finder Visualizer** that helps users understand how popular pathfinding algorithms work using a grid-based layout and animation.
 
-![Path Finder Visualizer](./public/.)
+![Path Finder Visualizer](./public/image.png)
 
 ---
 
