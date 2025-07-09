@@ -46,7 +46,7 @@ This makes testing different grid conditions fast and effective.
 
 ---
 
-## 📦 Installation & Usage
+## 📦 Installation
 
 ```bash
 git clone https://github.com/Preetibansal08/Path-Finder-Visualizer.git
